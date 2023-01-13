@@ -2,7 +2,12 @@
     "name": "aliqasemzadeh/bap",
     "type": "project",
     "description": "Laravel Base Admin Panel.",
-    "keywords": ["admin", "BAP", "framework", "laravel"],
+    "keywords": [
+        "admin",
+        "BAP",
+        "framework",
+        "laravel"
+    ],
     "license": "MIT",
     "require": {
         "php": "^8.0|^8.1",
@@ -12,7 +17,7 @@
         "cybercog/laravel-ban": "^4.7",
         "guzzlehttp/guzzle": "^7.2",
         "jantinnerezo/livewire-alert": "^2.2",
-        "laravel/framework": "^9.2",
+        "laravel/framework": "^9.19",
         "laravel/jetstream": "^2.6",
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.7",
